@@ -1,0 +1,863 @@
+
+  
+ <div class="row">
+
+ 	<div class="col-sm-12">
+
+
+
+<div class="table-responsive  open-data-tabla-datos">
+
+<table id="selectable" data-graph-container="#grafico_tabla"   data-graph-type="column"
+
+
+ class=" highchart table table-bordered table-condensed table-striped">
+
+
+<!-- Imprimir cabecera -->
+
+   <thead>
+ <tr>
+  <th> </th>
+   <th> </th>
+   <th> </th>
+   <th> </th>
+   <th> </th>
+   
+   </tr>
+
+ </thead>
+
+  <tbody>
+  	 
+	
+<tr>
+
+
+  
+	<td> -77.009489659306</td>
+
+   
+	<td> -12.179373634103</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Matellini</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.015793991849</td>
+
+   
+	<td> -12.172556029909</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Rosario de Villa</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.019188057926</td>
+
+   
+	<td> -12.168049879239</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Teran</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.019023446069</td>
+
+   
+	<td> -12.160041907709</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Escuela Militar</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.019586494124</td>
+
+   
+	<td> -12.152778979767</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Uni</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.020014625785</td>
+
+   
+	<td> -12.148003088202</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Bulevar</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.017800650118</td>
+
+   
+	<td> -12.140855554795</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Balta</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.019063777808</td>
+
+   
+	<td> -12.135754355336</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Plaza Flores</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.023041866469</td>
+
+   
+	<td> -12.129085707098</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> 28 de Julio</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.024417627835</td>
+
+   
+	<td> -12.124986227537</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Benavides</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.026143993828</td>
+
+   
+	<td> -12.118846768572</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Ricardo Palma</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.026290191082</td>
+
+   
+	<td> -12.113015409082</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Angamos</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.026761484123</td>
+
+   
+	<td> -12.108240939027</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Domingo Orue</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.027333224217</td>
+
+   
+	<td> -12.102248921718</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Aramburu</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.024949881033</td>
+
+   
+	<td> -12.09640381263</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Canaval y Moreyra</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.023219769938</td>
+
+   
+	<td> -12.089575250799</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Javier Prado</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.026170122638</td>
+
+   
+	<td> -12.082633277129</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Canada</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.028790967669</td>
+
+   
+	<td> -12.076990836376</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> MÃ©xico</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.031327461152</td>
+
+   
+	<td> -12.070966693733</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estadio Nacional</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.035948606359</td>
+
+   
+	<td> -12.05733969487</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Central</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.042654317013</td>
+
+   
+	<td> -12.047088551089</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> 2 de Mayo</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.042818595434</td>
+
+   
+	<td> -12.045609047009</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> 2 de Mayo</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.042381172874</td>
+
+   
+	<td> -12.051316764681</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Quilca</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.041853529857</td>
+
+   
+	<td> -12.057305616804</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> EspaÃ±a</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.032821133561</td>
+
+   
+	<td> -12.052400917834</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Colmena</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.033955104917</td>
+
+   
+	<td> -12.048591551089</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Jiron de la Union</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.032506818882</td>
+
+   
+	<td> -12.049466479393</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Jiron de la Union</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.037201437088</td>
+
+   
+	<td> -12.046594849156</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Tacna</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.037733190949</td>
+
+   
+	<td> -12.046235597869</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Tacna</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.042109236563</td>
+
+   
+	<td> -12.043589361666</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Ramon Castilla</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.043564231429</td>
+
+   
+	<td> -12.037281215832</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Caqueta</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.044206817643</td>
+
+   
+	<td> -12.029887171691</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Parque del Trabajo</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.049089590999</td>
+
+   
+	<td> -12.024081095476</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> UNI</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.051311776631</td>
+
+   
+	<td> -12.018557422871</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Honorio Delgado</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.05285384847</td>
+
+   
+	<td> -12.011604508695</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> El Milagro</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.053849118942</td>
+
+   
+	<td> -12.007006849165</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Tomas Valle</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.054806350779</td>
+
+   
+	<td> -12.001944842236</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Los Jazmines</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.055329537156</td>
+
+   
+	<td> -11.998230092138</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Independencia</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.056168098194</td>
+
+   
+	<td> -11.994699418397</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Pacifico</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.05699383334</td>
+
+   
+	<td> -11.989317175452</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Izaguirre</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.05888999935</td>
+
+   
+	<td> -11.981701207493</td>
+
+   
+	<td> METROPOLITANO</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Naranjal</td>
+
+   </tr>
+	 
+
+
+  </tbody>
+
+</table>
+
+</div>
+
+	</div>
+ </div>

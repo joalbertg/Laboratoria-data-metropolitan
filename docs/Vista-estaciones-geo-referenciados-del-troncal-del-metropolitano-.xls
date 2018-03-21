@@ -1,0 +1,803 @@
+
+  
+ <div class="row">
+
+ 	<div class="col-sm-12">
+
+
+
+<div class="table-responsive  open-data-tabla-datos">
+
+<table id="selectable" data-graph-container="#grafico_tabla"   data-graph-type="column"
+
+
+ class=" highchart table table-bordered table-condensed table-striped">
+
+
+<!-- Imprimir cabecera -->
+
+   <thead>
+ <tr>
+  <th> </th>
+   <th> </th>
+   <th> </th>
+   <th> </th>
+   <th> </th>
+   
+   </tr>
+
+ </thead>
+
+  <tbody>
+  	 
+	
+<tr>
+
+
+  
+	<td> -77.058853</td>
+
+   
+	<td> -11.981258</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Naranjal</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.057083</td>
+
+   
+	<td> -11.989878</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Izaguirre</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.056</td>
+
+   
+	<td> -11.994929</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Pacifico</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.055244</td>
+
+   
+	<td> -11.998752</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Independencia</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.054741</td>
+
+   
+	<td> -12.002297</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Los Jazmines</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.054001</td>
+
+   
+	<td> -12.006512</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Tomas Valle</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.052879</td>
+
+   
+	<td> -12.011737</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion El Milagro</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.051636</td>
+
+   
+	<td> -12.017243</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Honorio Delgado</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.048882</td>
+
+   
+	<td> -12.024234</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Uni</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.044273</td>
+
+   
+	<td> -12.029526</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Parque del Trabajo</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.043686</td>
+
+   
+	<td> -12.03628</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Caqueta</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.042778</td>
+
+   
+	<td> -12.046355</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion 2 de Mayo</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.042267</td>
+
+   
+	<td> -12.051936</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Quilca</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.041786</td>
+
+   
+	<td> -12.057188</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion EspaÃ±a</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.041512</td>
+
+   
+	<td> -12.043978</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Castilla</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.037537</td>
+
+   
+	<td> -12.046369</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Tacna</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.033379</td>
+
+   
+	<td> -12.048886</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Jiron de la Union</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.032822</td>
+
+   
+	<td> -12.05222</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Colmena</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.035988</td>
+
+   
+	<td> -12.057627</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Central</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.032059</td>
+
+   
+	<td> -12.068965</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Estadio Nacional</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.028885</td>
+
+   
+	<td> -12.076819</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Mexico</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.026482</td>
+
+   
+	<td> -12.082552</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Canada</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.02375</td>
+
+   
+	<td> -12.089097</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Javier Prado</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.025169</td>
+
+   
+	<td> -12.097009</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Canaval y Moreyra</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.027298</td>
+
+   
+	<td> -12.102646</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion AramburÃº</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.026375</td>
+
+   
+	<td> -12.108715</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Domingo OruÃ©</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.025986</td>
+
+   
+	<td> -12.113797</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Angamos</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.025894</td>
+
+   
+	<td> -12.119064</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Ricardo Palma</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.024155</td>
+
+   
+	<td> -12.125283</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Benavides</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.022804</td>
+
+   
+	<td> -12.129387</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion 28 de Julio</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.019073</td>
+
+   
+	<td> -12.135643</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Plaza de Flores</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.017731</td>
+
+   
+	<td> -12.140358</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Balta</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.020164</td>
+
+   
+	<td> -12.148795</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Bulevar</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.019661</td>
+
+   
+	<td> -12.152863</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Estadio Union</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.018913</td>
+
+   
+	<td> -12.159366</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Escuela Militar</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.018639</td>
+
+   
+	<td> -12.168675</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion TerÃ¡n</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.015076</td>
+
+   
+	<td> -12.17304</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Rosario de Villa</td>
+
+   </tr>
+	 
+<tr>
+
+
+  
+	<td> -77.009811</td>
+
+   
+	<td> -12.179069</td>
+
+   
+	<td> Metropolitano</td>
+
+   
+	<td> Troncal</td>
+
+   
+	<td> Estacion Matellini</td>
+
+   </tr>
+	 
+
+
+  </tbody>
+
+</table>
+
+</div>
+
+	</div>
+ </div>

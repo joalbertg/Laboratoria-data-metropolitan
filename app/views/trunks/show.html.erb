@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @trunk.name %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @trunk.description %>
+</p>
+
+<%= link_to 'Edit', edit_trunk_path(@trunk) %> |
+<%= link_to 'Back', trunks_path %>
