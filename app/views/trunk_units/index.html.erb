@@ -1,0 +1,33 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Listing Trunk Units</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Category</th>
+      <th>Turn</th>
+      <th>Schedule</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @trunk_units.each do |trunk_unit| %>
+      <tr>
+        <td><%= trunk_unit.name %></td>
+        <td><%= trunk_unit.category %></td>
+        <td><%= trunk_unit.turn %></td>
+        <td><%= trunk_unit.schedule %></td>
+        <td><%= link_to 'Show', trunk_unit %></td>
+        <td><%= link_to 'Edit', edit_trunk_unit_path(trunk_unit) %></td>
+        <td><%= link_to 'Destroy', trunk_unit, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Trunk unit', new_trunk_unit_path %>

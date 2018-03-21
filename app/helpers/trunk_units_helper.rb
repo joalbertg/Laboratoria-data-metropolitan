@@ -1,0 +1,2 @@
+module TrunkUnitsHelper
+end

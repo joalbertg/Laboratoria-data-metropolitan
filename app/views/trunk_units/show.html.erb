@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @trunk_unit.name %>
+</p>
+
+<p>
+  <strong>Category:</strong>
+  <%= @trunk_unit.category %>
+</p>
+
+<p>
+  <strong>Turn:</strong>
+  <%= @trunk_unit.turn %>
+</p>
+
+<p>
+  <strong>Schedule:</strong>
+  <%= @trunk_unit.schedule %>
+</p>
+
+<%= link_to 'Edit', edit_trunk_unit_path(@trunk_unit) %> |
+<%= link_to 'Back', trunk_units_path %>

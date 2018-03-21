@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :trunk_units
   resources :districts
   resources :trunks
   resources :stations

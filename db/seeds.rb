@@ -50,8 +50,8 @@ Station.create(name: 'Estacion Mexico', category: 'station', lat: -12.076819,
                lng: -77.028885)
 Station.create(name: 'Estacion Canada', category: 'station', lat: -12.082552,
                lng: -77.026482)
-Station.create(name: 'Estacion Javier Prado', category: 'station', lat: -12.089097,
-               lng: -77.02375)
+Station.create(name: 'Estacion Javier Prado', category: 'station',
+               lat: -12.089097, lng: -77.02375)
 Station.create(name: 'Estacion Canaval y Moreyra', category: 'station',
                lat: -12.097009, lng: -77.025169)
 Station.create(name: 'Estacion AramburÃº', category: 'station', lat: -12.102646,
@@ -101,4 +101,38 @@ District.create(name: 'San Isidro', description: '', ubication: 'Sur')
 District.create(name: 'Lince ', description: '', ubication: 'Sur')
 District.create(name: 'La Victoria', description: '', ubication: 'Sur')
 
+# creando unidades troncales expresos
 
+TrunkUnit.create(name: '1', category: 'express', turn: 'Mañana',
+                 schedule: '5:00 am a 9:20 am')
+TrunkUnit.create(name: '1', category: 'express', turn: 'Tarde',
+                 schedule: '5:00 am a 9:20 am')
+TrunkUnit.create(name: '2', category: 'express', turn: 'Mañana',
+                 schedule: '5:00 am a 9:20 am')
+TrunkUnit.create(name: '2', category: 'express', turn: 'Tarde',
+                 schedule: '5:00 am a 9:20 am')
+TrunkUnit.create(name: '3', category: 'express', turn: 'Mañana',
+                 schedule: '5:00 am a 9:20 am')
+TrunkUnit.create(name: '3', category: 'express', turn: 'Tarde',
+                 schedule: '5:00 am a 9:20 am')
+TrunkUnit.create(name: '4', category: 'express', turn: 'Sábados',
+                 schedule: '5:00 am a 9:20 am')
+TrunkUnit.create(name: '5', category: 'express', turn: '',
+                 schedule: '5:00 am a 9:20 am')
+TrunkUnit.create(name: '6', category: 'express', turn: 'Mañana',
+                 schedule: '5:00 am a 9:20 am')
+TrunkUnit.create(name: '7', category: 'express', turn: 'Mañana',
+                 schedule: '5:00 am a 9:20 am')
+TrunkUnit.create(name: '8', category: 'express', turn: 'Solo tarde',
+                 schedule: '5:00 am a 9:20 am')
+TrunkUnit.create(name: '9', category: 'express', turn: 'Mañana',
+                 schedule: '5:00 am a 9:20 am')
+TrunkUnit.create(name: 'SX', category: 'express', turn: 'Mañana',
+                 schedule: '5:00 am a 9:20 am')
+TrunkUnit.create(name: 'SX', category: 'express', turn: 'Tarde',
+                 schedule: '5:00 am a 9:20 am')
+TrunkUnit.create(name: 'SXN', category: 'express',
+                 turn: 'Mañana Solo de Naranjal a Est. Cen.',
+                 schedule: '5:00 am a 9:20 am')
+TrunkUnit.create(name: 'SXN', category: 'express', turn: 'Tarde',
+                 schedule: '5:00 am a 9:20 am')

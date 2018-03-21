@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180321172152) do
+ActiveRecord::Schema.define(version: 20180321211746) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -32,6 +32,15 @@ ActiveRecord::Schema.define(version: 20180321172152) do
     t.decimal  "lng"
     t.datetime "created_at",  null: false
     t.datetime "updated_at",  null: false
+  end
+
+  create_table "trunk_units", force: :cascade do |t|
+    t.string   "name"
+    t.string   "category"
+    t.string   "turn"
+    t.string   "schedule"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
   create_table "trunks", force: :cascade do |t|
