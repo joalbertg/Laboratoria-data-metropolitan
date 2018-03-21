@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+ruby '2.4.3'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.10'
@@ -35,3 +35,11 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+group :production do
+  #Rails 12factor for Heroku: https://github.com/heroku/rails_12factor
+  gem 'rails_12factor'
+end
+
+#para que no salgan las peticiones de precompilado assets en la consola
+gem 'quiet_assets', '~> 1.1', :group => :development
