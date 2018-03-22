@@ -1,0 +1,30 @@
+<h1>Binevenidxs</h1>
+
+<p>Puedes consultar los siguientes <strong>endpoints</strong>, espero que encuentres la data que necesitas para crear un excelente producto.</p>
+
+Routes
+
+<table>
+  <thead>
+    <tr>
+      <th>HTTP Verb</th>
+      <th>Path</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>GET</td>
+      <td><%= link_to  "/trunk_units", trunk_units_path(format: :json) %></td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td><%= link_to  "/districts", districts_path(format: :json) %></td>
+    </tr>
+      <td>GET</td>
+      <td><%= link_to  "/trunks", trunks_path(format: :json) %></td>
+    </tr>
+      <td>GET</td>
+      <td><%= link_to  "/stations", stations_path(format: :json) %></td>
+    </tr>
+  </tbody>
+</table>

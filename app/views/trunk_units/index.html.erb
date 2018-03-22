@@ -21,13 +21,7 @@
         <td><%= trunk_unit.turn %></td>
         <td><%= trunk_unit.schedule %></td>
         <td><%= link_to 'Show', trunk_unit %></td>
-        <td><%= link_to 'Edit', edit_trunk_unit_path(trunk_unit) %></td>
-        <td><%= link_to 'Destroy', trunk_unit, method: :delete, data: { confirm: 'Are you sure?' } %></td>
       </tr>
     <% end %>
   </tbody>
 </table>
-
-<br>
-
-<%= link_to 'New Trunk unit', new_trunk_unit_path %>

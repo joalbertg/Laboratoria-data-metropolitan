@@ -1,2 +1,4 @@
-json.extract! trunk, :id, :name, :description, :created_at, :updated_at
-json.url trunk_url(trunk, format: :json)
+json.trunk do
+  json.extract! trunk, :id, :name, :description
+  json.url trunk_url(trunk, format: :json)
+end
