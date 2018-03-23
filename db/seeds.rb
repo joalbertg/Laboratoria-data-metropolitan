@@ -33,7 +33,7 @@ parque_del_trabajo = Station.create(name: 'Estacion Parque del Trabajo',
 caqueta = Station.create(name: 'Estacion Caqueta', category: 'station',
                          lat: -12.03628, lng: -77.043686)
 dos_de_mayo = Station.create(name: 'Estacion 2 de Mayo', category: 'station',
-                            lat: -12.046355, lng: -77.042778)
+                             lat: -12.046355, lng: -77.042778)
 quilca = Station.create(name: 'Estacion Quilca', category: 'station',
                         lat: -12.051936, lng: -77.042267)
 espana = Station.create(name: 'Estacion España', category: 'station',
@@ -73,8 +73,9 @@ ricardo_palma = Station.create(name: 'Estacion Ricardo Palma',
                                lng: -77.025894)
 benavides = Station.create(name: 'Estacion Benavides', category: 'station',
                            lat: -12.125283, lng: -77.024155)
-veintiocho_de_julio = Station.create(name: 'Estacion 28 de Julio', category: 'station',
-                              lat: -12.129387, lng: -77.022804)
+veintiocho_de_julio = Station.create(name: 'Estacion 28 de Julio',
+                                     category: 'station', lat: -12.129387,
+                                     lng: -77.022804)
 plaza_de_flores = Station.create(name: 'Estacion Plaza de Flores',
                                  category: 'station', lat: -12.135643,
                                  lng: -77.019073)
