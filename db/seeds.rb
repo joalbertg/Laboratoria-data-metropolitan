@@ -6,81 +6,81 @@ Trunk.create(name: 'Troncal Sur', description: '')
 
 # creando estaciones del metropolitano
 
-Station.create(name: 'Estacion Naranjal', category: 'terminal', lat: -11.981258,
+naranjal = Station.create(name: 'Estacion Naranjal', category: 'terminal', lat: -11.981258,
                lng: -77.058853)
-Station.create(name: 'Estacion Izaguirre', category: 'station', lat: -11.989878,
+izaguirre = Station.create(name: 'Estacion Izaguirre', category: 'station', lat: -11.989878,
                lng: -77.057083)
-Station.create(name: 'Estacion Pacifico', category: 'station', lat: -11.994929,
+pacifico = Station.create(name: 'Estacion Pacifico', category: 'station', lat: -11.994929,
                lng: -77.056)
-Station.create(name: 'Estacion Independencia', category: 'station',
+independencia = Station.create(name: 'Estacion Independencia', category: 'station',
                lat: -11.998752, lng: -77.055244)
-Station.create(name: 'Estacion Los Jazmines', category: 'station',
+los_jazmines = Station.create(name: 'Estacion Los Jazmines', category: 'station',
                lat: -12.002297, lng: -77.054741)
-Station.create(name: 'Estacion Tomas Valle', category: 'station',
+tomas_valle = Station.create(name: 'Estacion Tomas Valle', category: 'station',
                lat: -12.006512, lng: -77.054001)
-Station.create(name: 'Estacion El Milagro', category: 'station',
+el_milagro = Station.create(name: 'Estacion El Milagro', category: 'station',
                lat: -12.011737, lng: -77.052879)
-Station.create(name: 'Estacion Honorio Delgado', category: 'station',
+honorio_delgado = Station.create(name: 'Estacion Honorio Delgado', category: 'station',
                lat: -12.017243, lng: -77.051636)
-Station.create(name: 'Estacion Uni', category: 'station', lat: -12.024234,
+uni = Station.create(name: 'Estacion Uni', category: 'station', lat: -12.024234,
                lng: -77.048882)
-Station.create(name: 'Estacion Parque del Trabajo', category: 'station',
+parque_del_trabajo = Station.create(name: 'Estacion Parque del Trabajo', category: 'station',
                lat: -12.029526, lng: -77.044273)
-Station.create(name: 'Estacion Caqueta', category: 'station', lat: -12.03628,
+caqueta = Station.create(name: 'Estacion Caqueta', category: 'station', lat: -12.03628,
                lng: -77.043686)
-Station.create(name: 'Estacion 2 de Mayo', category: 'station', lat: -12.046355,
+_2_de_mayo = Station.create(name: 'Estacion 2 de Mayo', category: 'station', lat: -12.046355,
                lng: -77.042778)
-Station.create(name: 'Estacion Quilca', category: 'station', lat: -12.051936,
+quilca = Station.create(name: 'Estacion Quilca', category: 'station', lat: -12.051936,
                lng: -77.042267)
-Station.create(name: 'Estacion EspaÃ±a', category: 'station', lat: -12.057188,
+espana = Station.create(name: 'Estacion España', category: 'station', lat: -12.057188,
                lng: -77.041786)
-Station.create(name: 'Estacion Castilla', category: 'station', lat: -12.043978,
+castilla = Station.create(name: 'Estacion Castilla', category: 'station', lat: -12.043978,
                lng: -77.041512)
-Station.create(name: 'Estacion Tacna', category: 'station', lat: -12.046369,
+tacna = Station.create(name: 'Estacion Tacna', category: 'station', lat: -12.046369,
                lng: -77.037537)
-Station.create(name: 'Estacion Jiron de la Union', category: 'station',
+jiron_de_la_union = Station.create(name: 'Estacion Jiron de la Union', category: 'station',
                lat: -12.048886, lng: -77.033379)
-Station.create(name: 'Estacion Colmena', category: 'station', lat: -12.05222,
+colmena = Station.create(name: 'Estacion Colmena', category: 'station', lat: -12.05222,
                lng: -77.032822)
-Station.create(name: 'Estacion Central', category: 'central', lat: -12.057627,
+central = Station.create(name: 'Estacion Central', category: 'central', lat: -12.057627,
                lng: -77.035988)
-Station.create(name: 'Estacion Estadio Nacional', category: 'station',
+estadio_nacional = Station.create(name: 'Estacion Estadio Nacional', category: 'station',
                lat: -12.068965, lng: -77.032059)
 Station.create(name: 'Estacion Mexico', category: 'station', lat: -12.076819,
                lng: -77.028885)
-Station.create(name: 'Estacion Canada', category: 'station', lat: -12.082552,
+canada = Station.create(name: 'Estacion Canada', category: 'station', lat: -12.082552,
                lng: -77.026482)
-Station.create(name: 'Estacion Javier Prado', category: 'station',
+javier_prado = Station.create(name: 'Estacion Javier Prado', category: 'station',
                lat: -12.089097, lng: -77.02375)
-Station.create(name: 'Estacion Canaval y Moreyra', category: 'station',
+canaval_y_moreyra = Station.create(name: 'Estacion Canaval y Moreyra', category: 'station',
                lat: -12.097009, lng: -77.025169)
-Station.create(name: 'Estacion AramburÃº', category: 'station', lat: -12.102646,
+aramburu = Station.create(name: 'Estacion Aramburú', category: 'station', lat: -12.102646,
                lng: -77.027298)
-Station.create(name: 'Estacion Domingo OruÃ©', category: 'station',
+orue = Station.create(name: 'Estacion Domingo Orué', category: 'station',
                lat: -12.108715, lng: -77.026375)
-Station.create(name: 'Estacion Angamos', category: 'station', lat: -12.113797,
+angamos = Station.create(name: 'Estacion Angamos', category: 'station', lat: -12.113797,
                lng: -77.025986)
-Station.create(name: 'Estacion Ricardo Palma', category: 'station',
+ricardo_palma = Station.create(name: 'Estacion Ricardo Palma', category: 'station',
                lat: -12.119064, lng: -77.025894)
-Station.create(name: 'Estacion Benavides', category: 'station', lat: -12.125283,
+benavides = Station.create(name: 'Estacion Benavides', category: 'station', lat: -12.125283,
                lng: -77.024155)
-Station.create(name: 'Estacion 28 de Julio', category: 'station',
+_28_de_julio = Station.create(name: 'Estacion 28 de Julio', category: 'station',
                lat: -12.129387, lng: -77.022804)
-Station.create(name: 'Estacion Plaza de Flores', category: 'station',
+plaza_de_flores = Station.create(name: 'Estacion Plaza de Flores', category: 'station',
                lat: -12.135643, lng: -77.019073)
-Station.create(name: 'Estacion Balta', category: 'station', lat: -12.140358,
+balta = Station.create(name: 'Estacion Balta', category: 'station', lat: -12.140358,
                lng: -77.017731)
-Station.create(name: 'Estacion Bulevar', category: 'station', lat: -12.148795,
+bulevar = Station.create(name: 'Estacion Bulevar', category: 'station', lat: -12.148795,
                lng: -77.020164)
-Station.create(name: 'Estacion Estadio Union', category: 'station',
+estadio_union = Station.create(name: 'Estacion Estadio Union', category: 'station',
                lat: -12.152863, lng: -77.019661)
-Station.create(name: 'Estacion Escuela Militar', category: 'station',
+escuela_militar = Station.create(name: 'Estacion Escuela Militar', category: 'station',
                lat: -12.159366, lng: -77.018913)
-Station.create(name: 'Estacion TerÃ¡n', category: 'station', lat: -12.168675,
+teran = Station.create(name: 'Estacion Terán', category: 'station', lat: -12.168675,
                lng: -77.018639)
-Station.create(name: 'Estacion Rosario de Villa', category: 'station',
+rosario_de_villa = Station.create(name: 'Estacion Rosario de Villa', category: 'station',
                lat: -12.17304, lng: -77.015076)
-Station.create(name: 'Estacion Matellini', category: 'terminal',
+matellini = Station.create(name: 'Estacion Matellini', category: 'terminal',
                lat: -12.179069, lng: -77.009811)
 
 # creando distritos
@@ -103,36 +103,151 @@ District.create(name: 'La Victoria', description: '', ubication: 'Sur')
 
 # creando unidades troncales expresos
 
-TrunkUnit.create(name: '1', category: 'express', turn: 'Mañana',
+exp_1m = TrunkUnit.create(name: '1', category: 'express', turn: 'Mañana',
                  schedule: '5:00 am a 9:20 am')
-TrunkUnit.create(name: '1', category: 'express', turn: 'Tarde',
+exp_1t = TrunkUnit.create(name: '1', category: 'express', turn: 'Tarde',
                  schedule: '5:00 am a 9:20 am')
-TrunkUnit.create(name: '2', category: 'express', turn: 'Mañana',
+exp_2m = TrunkUnit.create(name: '2', category: 'express', turn: 'Mañana',
                  schedule: '5:00 am a 9:20 am')
-TrunkUnit.create(name: '2', category: 'express', turn: 'Tarde',
+exp_2t = TrunkUnit.create(name: '2', category: 'express', turn: 'Tarde',
                  schedule: '5:00 am a 9:20 am')
-TrunkUnit.create(name: '3', category: 'express', turn: 'Mañana',
+exp_3m = TrunkUnit.create(name: '3', category: 'express', turn: 'Mañana',
                  schedule: '5:00 am a 9:20 am')
-TrunkUnit.create(name: '3', category: 'express', turn: 'Tarde',
+exp_3t = TrunkUnit.create(name: '3', category: 'express', turn: 'Tarde',
                  schedule: '5:00 am a 9:20 am')
-TrunkUnit.create(name: '4', category: 'express', turn: 'Sábados',
+exp_4s = TrunkUnit.create(name: '4', category: 'express', turn: 'Sábados',
                  schedule: '5:00 am a 9:20 am')
-TrunkUnit.create(name: '5', category: 'express', turn: '',
+exp_5 = TrunkUnit.create(name: '5', category: 'express', turn: '',
                  schedule: '5:00 am a 9:20 am')
-TrunkUnit.create(name: '6', category: 'express', turn: 'Mañana',
+exp_6m = TrunkUnit.create(name: '6', category: 'express', turn: 'Mañana',
                  schedule: '5:00 am a 9:20 am')
-TrunkUnit.create(name: '7', category: 'express', turn: 'Mañana',
+exp_7m = TrunkUnit.create(name: '7', category: 'express', turn: 'Mañana',
                  schedule: '5:00 am a 9:20 am')
-TrunkUnit.create(name: '8', category: 'express', turn: 'Solo tarde',
+exp_8t = TrunkUnit.create(name: '8', category: 'express', turn: 'Solo tarde',
                  schedule: '5:00 am a 9:20 am')
-TrunkUnit.create(name: '9', category: 'express', turn: 'Mañana',
+exp_9m = TrunkUnit.create(name: '9', category: 'express', turn: 'Mañana',
                  schedule: '5:00 am a 9:20 am')
-TrunkUnit.create(name: 'SX', category: 'express', turn: 'Mañana',
+exp_sxm = TrunkUnit.create(name: 'SX', category: 'express', turn: 'Mañana',
                  schedule: '5:00 am a 9:20 am')
-TrunkUnit.create(name: 'SX', category: 'express', turn: 'Tarde',
+exp_sxt = TrunkUnit.create(name: 'SX', category: 'express', turn: 'Tarde',
                  schedule: '5:00 am a 9:20 am')
-TrunkUnit.create(name: 'SXN', category: 'express',
+exp_sxnm = TrunkUnit.create(name: 'SXN', category: 'express',
                  turn: 'Mañana Solo de Naranjal a Est. Cen.',
                  schedule: '5:00 am a 9:20 am')
-TrunkUnit.create(name: 'SXN', category: 'express', turn: 'Tarde',
+exp_sxnt = TrunkUnit.create(name: 'SXN', category: 'express', turn: 'Tarde',
                  schedule: '5:00 am a 9:20 am')
+
+# creando join entre estaciones y unidades troncales dirección norte - sur
+
+StationTruckUnit.create(station: central, trunk_unit: exp_1m)
+StationTruckUnit.create(station: estadio_nacional, trunk_unit: exp_1m)
+StationTruckUnit.create(station: javier_prado, trunk_unit: exp_1m)
+StationTruckUnit.create(station: canaval_y_moreyra, trunk_unit: exp_1m)
+StationTruckUnit.create(station: angamos, trunk_unit: exp_1m)
+StationTruckUnit.create(station: _28_de_julio, trunk_unit: exp_1m)
+StationTruckUnit.create(station: balta, trunk_unit: exp_1m)
+StationTruckUnit.create(station: bulevar, trunk_unit: exp_1m)
+StationTruckUnit.create(station: estadio_union, trunk_unit: exp_1m)
+StationTruckUnit.create(station: escuela_militar, trunk_unit: exp_1m)
+StationTruckUnit.create(station: teran, trunk_unit: exp_1m)
+StationTruckUnit.create(station: rosario_de_villa, trunk_unit: exp_1m)
+StationTruckUnit.create(station: matellini, trunk_unit: exp_1m)
+
+StationTruckUnit.create(station: central, trunk_unit: exp_1t)
+StationTruckUnit.create(station: estadio_nacional, trunk_unit: exp_1t)
+StationTruckUnit.create(station: javier_prado, trunk_unit: exp_1t)
+StationTruckUnit.create(station: canaval_y_moreyra, trunk_unit: exp_1t)
+StationTruckUnit.create(station: angamos, trunk_unit: exp_1t)
+StationTruckUnit.create(station: _28_de_julio, trunk_unit: exp_1t)
+StationTruckUnit.create(station: balta, trunk_unit: exp_1t)
+StationTruckUnit.create(station: bulevar, trunk_unit: exp_1t)
+StationTruckUnit.create(station: estadio_union, trunk_unit: exp_1t)
+StationTruckUnit.create(station: escuela_militar, trunk_unit: exp_1t)
+StationTruckUnit.create(station: teran, trunk_unit: exp_1t)
+StationTruckUnit.create(station: rosario_de_villa, trunk_unit: exp_1t)
+StationTruckUnit.create(station: matellini, trunk_unit: exp_1t)
+
+StationTruckUnit.create(station: naranjal, trunk_unit: exp_2m)
+StationTruckUnit.create(station: canada, trunk_unit: exp_2m)
+StationTruckUnit.create(station: javier_prado, trunk_unit: exp_2m)
+StationTruckUnit.create(station: ricardo_palma, trunk_unit: exp_2m)
+StationTruckUnit.create(station: _28_de_julio, trunk_unit: exp_2m)
+
+StationTruckUnit.create(station: naranjal, trunk_unit: exp_3m)
+StationTruckUnit.create(station: angamos, trunk_unit: exp_3m)
+StationTruckUnit.create(station: benavides, trunk_unit: exp_3m)
+StationTruckUnit.create(station: _28_de_julio, trunk_unit: exp_3m)
+
+StationTruckUnit.create(station: naranjal, trunk_unit: exp_4s)
+StationTruckUnit.create(station: izaguirre, trunk_unit: exp_4s)
+StationTruckUnit.create(station: tomas_valle, trunk_unit: exp_4s)
+StationTruckUnit.create(station: uni, trunk_unit: exp_4s)
+StationTruckUnit.create(station: caqueta, trunk_unit: exp_4s)
+StationTruckUnit.create(station: _2_de_mayo, trunk_unit: exp_4s)
+StationTruckUnit.create(station: espana, trunk_unit: exp_4s)
+StationTruckUnit.create(station: central, trunk_unit: exp_4s)
+StationTruckUnit.create(station: javier_prado, trunk_unit: exp_4s)
+StationTruckUnit.create(station: canaval_y_moreyra, trunk_unit: exp_4s)
+StationTruckUnit.create(station: angamos, trunk_unit: exp_4s)
+StationTruckUnit.create(station: plaza_de_flores, trunk_unit: exp_4s)
+
+StationTruckUnit.create(station: naranjal, trunk_unit: exp_5)
+StationTruckUnit.create(station: independencia, trunk_unit: exp_5)
+StationTruckUnit.create(station: tomas_valle, trunk_unit: exp_5)
+StationTruckUnit.create(station: uni, trunk_unit: exp_5)
+StationTruckUnit.create(station: espana, trunk_unit: exp_5)
+StationTruckUnit.create(station: central, trunk_unit: exp_5)
+StationTruckUnit.create(station: canada, trunk_unit: exp_5)
+StationTruckUnit.create(station: javier_prado, trunk_unit: exp_5)
+StationTruckUnit.create(station: canaval_y_moreyra, trunk_unit: exp_5)
+StationTruckUnit.create(station: angamos, trunk_unit: exp_5)
+StationTruckUnit.create(station: ricardo_palma, trunk_unit: exp_5)
+StationTruckUnit.create(station: plaza_de_flores, trunk_unit: exp_5)
+
+StationTruckUnit.create(station: izaguirre, trunk_unit: exp_6m)
+StationTruckUnit.create(station: independencia, trunk_unit: exp_6m)
+StationTruckUnit.create(station: central, trunk_unit: exp_6m)
+StationTruckUnit.create(station: javier_prado, trunk_unit: exp_6m)
+StationTruckUnit.create(station: canaval_y_moreyra, trunk_unit: exp_6m)
+StationTruckUnit.create(station: angamos, trunk_unit: exp_6m)
+StationTruckUnit.create(station: benavides, trunk_unit: exp_6m)
+
+StationTruckUnit.create(station: tomas_valle, trunk_unit: exp_7m)
+StationTruckUnit.create(station: central, trunk_unit: exp_7m)
+StationTruckUnit.create(station: javier_prado, trunk_unit: exp_7m)
+StationTruckUnit.create(station: canaval_y_moreyra, trunk_unit: exp_7m)
+StationTruckUnit.create(station: angamos, trunk_unit: exp_7m)
+
+StationTruckUnit.create(station: izaguirre, trunk_unit: exp_8t)
+StationTruckUnit.create(station: independencia, trunk_unit: exp_8t)
+StationTruckUnit.create(station: tomas_valle, trunk_unit: exp_8t)
+StationTruckUnit.create(station: uni, trunk_unit: exp_8t)
+StationTruckUnit.create(station: caqueta, trunk_unit: exp_8t)
+StationTruckUnit.create(station: espana, trunk_unit: exp_8t)
+StationTruckUnit.create(station: central, trunk_unit: exp_8t)
+StationTruckUnit.create(station: javier_prado, trunk_unit: exp_8t)
+StationTruckUnit.create(station: canaval_y_moreyra, trunk_unit: exp_8t)
+StationTruckUnit.create(station: angamos, trunk_unit: exp_8t)
+StationTruckUnit.create(station: benavides, trunk_unit: exp_8t)
+StationTruckUnit.create(station: plaza_de_flores, trunk_unit: exp_8t)
+
+StationTruckUnit.create(station: uni, trunk_unit: exp_9m)
+StationTruckUnit.create(station: caqueta, trunk_unit: exp_9m)
+StationTruckUnit.create(station: canada, trunk_unit: exp_9m)
+StationTruckUnit.create(station: canaval_y_moreyra, trunk_unit: exp_9m)
+StationTruckUnit.create(station: angamos, trunk_unit: exp_9m)
+StationTruckUnit.create(station: benavides, trunk_unit: exp_9m)
+
+StationTruckUnit.create(station: naranjal, trunk_unit: exp_sxm)
+StationTruckUnit.create(station: canaval_y_moreyra, trunk_unit: exp_sxm)
+StationTruckUnit.create(station: aramburu, trunk_unit: exp_sxm)
+StationTruckUnit.create(station: ricardo_palma, trunk_unit: exp_sxm)
+
+StationTruckUnit.create(station: naranjal, trunk_unit: exp_sxnm)
+StationTruckUnit.create(station: _2_de_mayo, trunk_unit: exp_sxnm)
+StationTruckUnit.create(station: quilca, trunk_unit: exp_sxnm)
+StationTruckUnit.create(station: espana, trunk_unit: exp_sxnm)
+StationTruckUnit.create(station: central, trunk_unit: exp_sxnm)
+
+StationTruckUnit.create(station: naranjal, trunk_unit: exp_sxnt)
+StationTruckUnit.create(station: central, trunk_unit: exp_sxnt)

@@ -11,6 +11,10 @@ class TrunkUnitsController < ApplicationController
   # GET /trunk_units/1.json
   def show; end
 
+  def stations
+    @trunk_units = TrunkUnit.all
+  end
+
   private
 
   # Use callbacks to share common setup or constraints between actions.

@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180321211746) do
+ActiveRecord::Schema.define(version: 20180322231430) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -23,6 +23,16 @@ ActiveRecord::Schema.define(version: 20180321211746) do
     t.datetime "created_at",  null: false
     t.datetime "updated_at",  null: false
   end
+
+  create_table "station_truck_units", force: :cascade do |t|
+    t.integer  "station_id"
+    t.integer  "trunk_unit_id"
+    t.datetime "created_at",    null: false
+    t.datetime "updated_at",    null: false
+  end
+
+  add_index "station_truck_units", ["station_id"], name: "index_station_truck_units_on_station_id", using: :btree
+  add_index "station_truck_units", ["trunk_unit_id"], name: "index_station_truck_units_on_trunk_unit_id", using: :btree
 
   create_table "stations", force: :cascade do |t|
     t.string   "name"
@@ -50,4 +60,6 @@ ActiveRecord::Schema.define(version: 20180321211746) do
     t.datetime "updated_at",  null: false
   end
 
+  add_foreign_key "station_truck_units", "stations"
+  add_foreign_key "station_truck_units", "trunk_units"
 end
